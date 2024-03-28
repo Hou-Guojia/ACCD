@@ -1,14 +1,14 @@
-# Code for ""
+# Code for "Underwater image restoration via adaptive color correction and dehazing"
 
 1. This code is for the paper: 
 
+   Jiening Zhang, Qing Yu, Guojia Hou, "Underwater image restoration via adaptive color correction and dehazing", Applied Optics, 2024, doi: https://doi.org/10.1364/AO.514749.
    
-   
-   The code can only be used for  purpose. If you use our code, please cite the paper.
+   The code can only be used for non-commercial purpose. If you use our code, please cite the paper.
 
-3. The code has been tested on Windows 10 64bit with MATLAB 2019b. 
+2. The code has been tested on Windows 10 64bit with MATLAB 2019b. 
 
-4. Usage:
+3. Usage:
 
    (1) Put the images into the 'Images' folder.
 
