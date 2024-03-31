@@ -2,7 +2,7 @@
 
 1. This code is for the paper: 
 
-   Jiening Zhang, Qing Yu, Guojia Hou, "Underwater image restoration via adaptive color correction and dehazing", Applied Optics, 2024, doi: https://doi.org/10.1364/AO.514749.
+   Jiening Zhang, Qing Yu, Guojia Hou, "Underwater image restoration via adaptive color correction and dehazing", Applied Optics, 2024, 10 (63): 2728-2736.
    
    The code can only be used for non-commercial purpose. If you use our code, please cite the paper.
 
